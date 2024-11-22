@@ -171,6 +171,7 @@
     font-weight: bold;
     color: #D02467;
     margin-left:40px;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   .label {
@@ -206,3 +207,97 @@
     z-index:-1;
     margin-top:160px;
 }
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.img10{
+    margin-top:230px;
+}
+  .h2{
+    margin-left:30px;
+    font-size: 46px;
+    margin-top:200px;
+  }
+  .p4{
+    width:450px;
+    margin-left: 30px;
+    color:#585C67;
+  }
+  .div8{
+    display: flex;
+  }
+  .h3{
+    font-size: 18px;
+    margin-top:30px;
+  }
+  .div9{
+    display: flex;
+    justify-content: center;
+  }
+  .p5{
+    width:370px;
+  }
+  .p6{
+    width: 400px;
+  }
+  .div10{
+    text-align: center;
+    margin-top: 100px;    
+  }
+  .h4{
+    font-size: 46px;
+  }
+  .div11{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  .signup-container {
+    text-align: center;
+    background-color:#89B9A5;
+    height:308px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width:1000px;
+    overflow: hidden;
+    margin-left:170px;
+    margin-top: 100px;
+
+  }
+  .p7 {
+    font-size: 16px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  .h6{
+    font-size:36px;
+  color:white; 
+  margin-top:80px;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .form-group {
+    display: flex;
+   justify-content: center;
+   margin-top:30px;
+  }
+
+  .input {
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+  }
+
+  .button {
+    background-color:#F0D29C;
+    color:black;
+    padding: 10px 20px;
+    font-size: 14px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+  }
