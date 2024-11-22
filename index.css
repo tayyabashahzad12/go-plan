@@ -156,7 +156,7 @@
     padding: 15px;
     margin-top: 20px;
     margin-left: 190px;
-    width: 1000px;
+    width: 900px;
   }
   .countdown {
     display: flex;
@@ -179,15 +179,10 @@
     display: block;
     margin-left: 40px;
   }
-  .div6{
-    margin-left: 40px;
-    text-align: left;
-  }
-  
   .p3 {
     font-size:40px;
     width:400px;
-    margin-bottom: 10px;
+    margin-bottom:25px;
     color: #333;
   }
   
@@ -199,3 +194,15 @@
     font-size: 1rem;
     border-radius: 18px;
   }
+  .div7{
+    position: relative;
+  }
+  .img8{
+    margin-left:20px;
+  }
+.img9{
+    position: absolute;
+    width:100%;
+    z-index:-1;
+    margin-top:160px;
+}
