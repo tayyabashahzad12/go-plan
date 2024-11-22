@@ -301,3 +301,71 @@
     border: none;
     border-radius: 0 5px 5px 0;
   }
+
+  .footer1 {
+    background-color:white;
+    padding: 20px ;
+    border-top: 1px solid #ddd;
+    margin-top: 100px;
+  }
+  .img12{
+    margin-left: 20px;
+    margin-top:30px;
+  }
+  
+  .footer-container {
+    display: flex;
+  }
+  
+  .p8 { 
+    color: #555;
+    margin-left:20px;
+  }
+  
+  .img11{
+    width:44px;
+  }
+  
+  .footer-links {
+    display: flex;
+   margin-left:150px;
+  }
+  
+  .h7 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+    margin-left: 40px;
+  }
+  
+  .ul1 {
+    list-style: none;
+    padding: 0px;
+    margin-left: 40px;
+  }
+  .ul2{
+    margin-left: 120px;
+  }
+  
+  .li1 {
+    margin-bottom:10px;
+  }
+  .h8{
+    margin-left: 120px;
+  }
+  .a1 {
+    text-decoration: none;
+    color: #555;
+  }
+  .div13{
+    width: 100%;
+    height: 56px;
+    background-color: #2F2F2F;
+    overflow: hidden;
+  }
+  .p9{
+    color: white;
+    text-align: center;
+    margin-top:20px;
+  }
+  
