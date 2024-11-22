@@ -46,7 +46,7 @@
 .div1{
     display: flex;
     align-items: center;
-    background-color: #7F56D90A;
+    background: linear-gradient(to right,#7F56D90A,white);
 }
 .h1{
     width: 70%;
@@ -102,3 +102,99 @@
     display: flex;
     justify-content: center;
 }
+.main-container{
+    display: flex;
+    background: linear-gradient(to right,#eee8fa, white);    
+    width: 100%;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.container{
+    position: relative;
+    width: fit-content;
+}
+.card {
+    background-color:white;
+    width: 250px;
+    height: 150px; 
+    border-radius: 20px;
+    text-align: center;
+    padding-top:50px; 
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.calender{
+    width: fit-content;
+    height: fit-content;
+    border-radius:50%;
+    position: absolute;
+    background-color: #eee8fa;
+    top:-65px;
+    left:66px;
+}
+.img5{
+    height:120px;
+    width:120px;
+}
+.p2{
+    width: 250px;
+    font-weight: bold;
+    font-size:19px;
+    margin-top:35px;
+    color:black; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.countdown-container {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding:40px;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width:900px;
+    margin: 20px auto;
+  }
+  .div2{
+    color: #D02467;
+    font-weight: bold;
+    margin: 10px;
+    font-size:60px;
+  }
+  
+  .div3{
+    color: #F52D3A;
+  }
+  .div4{
+    color: #FE672E;
+  }
+  .div5{
+    color:#FEBE26;
+  }
+  .div6{
+    display:flex;
+  }
+  .timer{
+    display: flex;
+  }
+  
+  .h3 {
+    margin: 0;
+    font-size:30px;
+    color: #333;
+    width:400px;
+  }
+  
+  .hire{
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color:#6B759D;
+    color: white;
+    border: none;
+    border-radius:18px;
+    cursor: pointer;
+  }
