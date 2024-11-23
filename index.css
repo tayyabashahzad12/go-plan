@@ -155,11 +155,14 @@
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     padding: 15px;
     margin-top: 20px;
-    margin-left: 190px;
     width: 900px;
   }
   .countdown {
     display: flex;
+  }
+  .div14{
+    display: flex;
+    justify-content: center;
   }
   
   .time-box {
@@ -205,7 +208,7 @@
     position: absolute;
     width:100%;
     z-index:-1;
-    margin-top:160px;
+    margin-top:180px;
 }
 .container2 {
     display: flex;
@@ -263,9 +266,11 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width:1000px;
     overflow: hidden;
-    margin-left:170px;
     margin-top: 100px;
-
+  }
+  .div15{
+    display: flex;
+    justify-content: center;
   }
   .p7 {
     font-size: 16px;
@@ -315,6 +320,7 @@
   
   .footer-container {
     display: flex;
+    justify-content: center;
   }
   
   .p8 { 
