@@ -4,14 +4,13 @@ body{
 
 .navbar {
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
     align-items: center;
     height:50px;
     width: 100%;
     background-color: #ffffff;
 }
 .img1{
-    margin-left:40px;
    align-items: center;
 }
 .links {
@@ -28,7 +27,7 @@ body{
 }
 .buttons {
     display: flex;
-    gap:20px;
+    gap:10px;
 }
 .sign-in {
     border: 1px solid #89b9a5;
@@ -37,13 +36,13 @@ body{
     color: #89B9A5;
     width:80px;
     height:30px;
+    margin-left: 20px;
 }
 .sign-up{
     border: 1px solid #6B759D;
     background-color:#6B759D;
     border-radius:15px;
     color:white;
-    margin-right:60px;
     width:80px;
     height:30px;
 }
