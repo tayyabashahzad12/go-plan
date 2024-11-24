@@ -1,3 +1,7 @@
+body{
+  margin: 0px;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -45,11 +49,12 @@
 }
 .div1{
     display: flex;
+    justify-content: center;
     align-items: center;
     background: linear-gradient(to right,#7F56D90A,white);
 }
 .h1{
-    width: 70%;
+    width:400px;
     color: #6c769e;
     font-size: 300%;
     margin-left: 100px;
